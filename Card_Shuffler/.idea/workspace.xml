@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d17ac82a-c9fb-4bc6-9ddd-542e64ce51cf" name="Changes" comment="" />
+    <list default="true" id="c2a5a58a-70c7-4a57-8480-8f8a8c6ea635" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../MorseCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MorseCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissors/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rock Paper Scissors/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rock Paper Scissors/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissors/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Rock Paper Scissors/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,42 +25,27 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2HSXgdhn3gN0XaOrjv0o6jsXEvC" />
+  <component name="ProjectId" id="2Ivx8fN4SlrioRZO7TW0ZLIFjQN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/IntelliJ Projects/MorseCode&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/nickm/Projects/DeckOfCards"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Rock Paper Scissors" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d17ac82a-c9fb-4bc6-9ddd-542e64ce51cf" name="Changes" comment="" />
-      <created>1668279577714</created>
+      <changelist id="c2a5a58a-70c7-4a57-8480-8f8a8c6ea635" name="Changes" comment="" />
+      <created>1671075703556</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1668279577714</updated>
+      <updated>1671075703556</updated>
     </task>
     <servers />
   </component>

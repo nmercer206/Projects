@@ -10,7 +10,7 @@ public class Main {
             System.out.println("Would you like to play a game of Rock Paper Scissors? (y/n)");
             String playerChoice;
 
-            while (true){
+            while (true)  {
                 playerChoice = scanner.nextLine().toLowerCase();
                 if (playerChoice.equals("y") || playerChoice.equals("n") || playerChoice.equals("yes") || playerChoice.equals("no")){
                     break;
