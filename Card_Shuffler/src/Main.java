@@ -15,7 +15,7 @@ public class Main {
 
             }
         }
-        System.out.println("Welcome To Etactics' Card-O-Matic!");
+        System.out.println("Welcome To Card-O-Matic!");
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
