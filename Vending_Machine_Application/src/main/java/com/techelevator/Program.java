@@ -19,10 +19,11 @@ public class Program {
 		Map<String, Product> productMap = new HashMap<>();
 		User user = new User();
 		List<String> productCode = new ArrayList<>();
-		String salesPath = "C:\\Users\\Student\\workspace\\java-minicapstonemodule1-team4\\saleslog.txt";
+		String salesPath = "C:\\Users\\nickm\\Projects\\Vending_Machine_Application\\saleslog.txt";
 		File salesLog = new File(salesPath);
 
-		String invPath = "C:\\Users\\Student\\workspace\\java-minicapstonemodule1-team4\\vendingmachine.csv";
+
+		String invPath = "C:\\Users\\nickm\\Projects\\Vending_Machine_Application\\vendingmachine.csv";
 		File invFile = new File(invPath);
 		try (Scanner invScanner = new Scanner(invFile)) {
 			while (invScanner.hasNextLine()) {

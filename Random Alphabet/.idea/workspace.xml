@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2a5a58a-70c7-4a57-8480-8f8a8c6ea635" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Random Alphabet/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Random Alphabet/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Random Alphabet/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Random Alphabet/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="871209b7-34b8-48ae-9e3f-2461ca0a511d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Card_Shuffler/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Card_Shuffler/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DeckOfCards/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +10,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Ivx8fN4SlrioRZO7TW0ZLIFjQN" />
+  <component name="ProjectId" id="2Iw08QaoFDmVynjLJ4loIRdvDl7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,33 +25,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/nickm/Projects/Vending_Machine_Application",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Card_Shuffler" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c2a5a58a-70c7-4a57-8480-8f8a8c6ea635" name="Changes" comment="" />
-      <created>1671075703556</created>
+      <changelist id="871209b7-34b8-48ae-9e3f-2461ca0a511d" name="Changes" comment="" />
+      <created>1671077182803</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1671075703556</updated>
+      <updated>1671077182803</updated>
     </task>
     <servers />
   </component>
