@@ -1,2 +1,2 @@
 ## Projects
-This repository contains a list of every project I've either completed or am currently working on.
+This repository contains a list of many of the former projects I've developed.
